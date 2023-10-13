@@ -268,4 +268,4 @@ ggplot(pca_data, aes(PC1, PC2, label = name)) +
 
 How would you interpret the results of a PCA analysis for a client?
 
-In this PCA analysis, PC1 and PC2 fail to distinctly separate data points, suggesting a complex or low-variance structure in the dataset. Further exploration of higher-dimensional components may be needed to uncover hidden patterns.
+In this analysis, PC1 and PC2 fail to distinctly separate data points, suggesting a complex or low-variance structure in the dataset. Further exploration of higher-dimensional components may be needed to uncover hidden patterns.
